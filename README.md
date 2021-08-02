@@ -10,7 +10,7 @@ Worked on the following vulnerabilities:
   <li> Performed Wireless Penetration Testing. </li>
   <li> Explored Network Traces. </li>
   <li> Risk/Vulnerability Assessment on wired network (Exploited vulnerabilities of MySQL). </li>
-  <li> SQL Injection Attack. </li>
+  <li> Performed SQL Injection Attack. </li>
   <li> Performed a Cross-Site Request Forgery attack- widely exploited in web applications. </li>
   <li> Performed XSS attack. </li>
 </ul>
